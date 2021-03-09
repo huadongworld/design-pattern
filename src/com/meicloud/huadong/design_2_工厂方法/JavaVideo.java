@@ -7,6 +7,6 @@ package com.meicloud.huadong.design_2_工厂方法;
 public class JavaVideo extends Video {
     @Override
     public void produce() {
-        System.out.println("Java。。。");
+        System.out.println("Java视频。。。");
     }
 }
