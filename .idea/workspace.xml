@@ -2,19 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652cdc7-fe0b-4cc9-b948-704c0aabb397" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/CourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/CourseActualBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/CourseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/v2/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/v2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/MailUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/abstractprototype/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/abstractprototype/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/clone/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/clone/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/meicloud/huadong/design_1_简单工厂/JavaVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_1_简单工厂/JavaVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/meicloud/huadong/design_2_工厂方法/JavaVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_2_工厂方法/JavaVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/com/meicloud/huadong/design_1_简单工厂/JavaVideo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/com/meicloud/huadong/design_1_简单工厂/JavaVideo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/com/meicloud/huadong/design_2_工厂方法/FEVideo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/com/meicloud/huadong/design_2_工厂方法/FEVideo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/com/meicloud/huadong/design_2_工厂方法/JavaVideo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/com/meicloud/huadong/design_2_工厂方法/JavaVideo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,171 +45,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="CourseFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/CourseFactory.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/v2/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaArticle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaArticle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaCourseFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaCourseFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-              <folding>
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaVideo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaVideo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
-              <folding>
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PythonArticle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonArticle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PythonCourseFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonCourseFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" selection-start-line="6" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PythonVideo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonVideo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Video.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/Video.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/com.meicloud.huadong.design_3_抽象工厂" pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/com.meicloud.huadong.design_3_抽象工厂">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.meicloud.huadong.design_3_抽象工厂</OriginalElement>
-              <nodes>
-                <node x="104.5" y="271.0">com.meicloud.huadong.design_3_抽象工厂.Article</node>
-                <node x="209.0" y="602.0">com.meicloud.huadong.design_3_抽象工厂.JavaVideo</node>
-                <node x="443.0" y="490.0">com.meicloud.huadong.design_3_抽象工厂.Test</node>
-                <node x="216.0" y="138.0">com.meicloud.huadong.design_3_抽象工厂.PythonCourseFactory</node>
-                <node x="209.0" y="383.0">com.meicloud.huadong.design_3_抽象工厂.PythonArticle</node>
-                <node x="0.0" y="602.0">com.meicloud.huadong.design_3_抽象工厂.PythonVideo</node>
-                <node x="128.25" y="0.0">com.meicloud.huadong.design_3_抽象工厂.CourseFactory</node>
-                <node x="104.5" y="490.0">com.meicloud.huadong.design_3_抽象工厂.Video</node>
-                <node x="0.0" y="383.0">com.meicloud.huadong.design_3_抽象工厂.JavaArticle</node>
-                <node x="0.0" y="138.0">com.meicloud.huadong.design_3_抽象工厂.JavaCourseFactory</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.meicloud.huadong.design_3_抽象工厂.JavaArticle" target="com.meicloud.huadong.design_3_抽象工厂.Article">
-                  <point x="0.0" y="-31.0" />
-                  <point x="94.5" y="358.0" />
-                  <point x="151.75" y="358.0" />
-                  <point x="-47.25" y="31.0" />
-                </edge>
-                <edge source="com.meicloud.huadong.design_3_抽象工厂.PythonArticle" target="com.meicloud.huadong.design_3_抽象工厂.Article">
-                  <point x="0.0" y="-31.0" />
-                  <point x="303.5" y="358.0" />
-                  <point x="246.25" y="358.0" />
-                  <point x="47.25" y="31.0" />
-                </edge>
-                <edge source="com.meicloud.huadong.design_3_抽象工厂.JavaCourseFactory" target="com.meicloud.huadong.design_3_抽象工厂.CourseFactory">
-                  <point x="0.0" y="-44.0" />
-                  <point x="98.0" y="113.0" />
-                  <point x="169.75" y="113.0" />
-                  <point x="-41.5" y="44.0" />
-                </edge>
-                <edge source="com.meicloud.huadong.design_3_抽象工厂.PythonVideo" target="com.meicloud.huadong.design_3_抽象工厂.Video">
-                  <point x="0.0" y="-31.0" />
-                  <point x="94.5" y="577.0" />
-                  <point x="151.75" y="577.0" />
-                  <point x="-47.25" y="31.0" />
-                </edge>
-                <edge source="com.meicloud.huadong.design_3_抽象工厂.JavaVideo" target="com.meicloud.huadong.design_3_抽象工厂.Video">
-                  <point x="0.0" y="-31.0" />
-                  <point x="303.5" y="577.0" />
-                  <point x="246.25" y="577.0" />
-                  <point x="47.25" y="31.0" />
-                </edge>
-                <edge source="com.meicloud.huadong.design_3_抽象工厂.PythonCourseFactory" target="com.meicloud.huadong.design_3_抽象工厂.CourseFactory">
-                  <point x="0.0" y="-44.0" />
-                  <point x="324.5" y="113.0" />
-                  <point x="252.75" y="113.0" />
-                  <point x="41.5" y="44.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="456.0" y="228.0" />
-              <SelectedNodes>
-                <node>com.meicloud.huadong.design_3_抽象工厂.JavaArticle</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Properties</Category>
-                <Category>Methods</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+            <state relative-caret-position="510">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -223,6 +68,10 @@
       <find>/**  * Created by geely  */</find>
       <find>Created by geely</find>
       <find>Java。。。</find>
+      <find>coursePPT</find>
+      <find>mailTemp</find>
+      <find>mail</find>
+      <find>birthday</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -254,6 +103,20 @@
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonArticle.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/Video.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/CourseFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/CourseActualBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/Coach.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/CourseBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/Course.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/v2/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/v2/Course.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/Mail.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/clone/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/abstractprototype/B.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/abstractprototype/A.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/MailUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/clone/Pig.java" />
       </list>
     </option>
   </component>
@@ -278,8 +141,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -303,30 +167,32 @@
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="huadong" type="462c0819:PsiDirectoryNode" />
-              <item name="design_1_简单工厂" type="462c0819:PsiDirectoryNode" />
+              <item name="design_5_原型模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="huadong" type="462c0819:PsiDirectoryNode" />
-              <item name="design_2_工厂方法" type="462c0819:PsiDirectoryNode" />
+              <item name="design_5_原型模式" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractprototype" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="huadong" type="462c0819:PsiDirectoryNode" />
-              <item name="design_3_抽象工厂" type="462c0819:PsiDirectoryNode" />
+              <item name="design_5_原型模式" type="462c0819:PsiDirectoryNode" />
+              <item name="clone" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="cloneab&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Cloneable.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -335,13 +201,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.meicloud.huadong.design_4_建造者模式" />
       <recent name="com.meicloud.huadong.design_1_简单工厂" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_5_原型模式" />
+      <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_4_建造者模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\design_3_抽象工厂" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong" />
       <recent name="C:\Users\85176\Desktop\design-pattern" />
-      <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_2_工厂方法" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -356,55 +224,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="design-pattern" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_2_工厂方法.Test" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_5_原型模式.abstractprototype.B" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meicloud.huadong.design_2_工厂方法.*" />
+          <option name="PATTERN" value="com.meicloud.huadong.design_5_原型模式.abstractprototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_3_抽象工厂.Test" />
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_4_建造者模式.Test" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meicloud.huadong.design_3_抽象工厂.*" />
+          <option name="PATTERN" value="com.meicloud.huadong.design_4_建造者模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_4_建造者模式.v2.Test" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meicloud.huadong.design_4_建造者模式.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_5_原型模式.Test" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meicloud.huadong.design_5_原型模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_1_简单工厂.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_5_原型模式.clone.Test" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meicloud.huadong.design_1_简单工厂.*" />
+          <option name="PATTERN" value="com.meicloud.huadong.design_5_原型模式.clone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Test (4)" />
+      <item itemvalue="Application.Test (5)" />
+      <item itemvalue="Application.B" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Test (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (5)" />
+        <item itemvalue="Application.B" />
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -419,7 +303,9 @@
       <option name="presentableId" value="Default" />
       <updated>1615206449246</updated>
       <workItem from="1615206451209" duration="7597000" />
-      <workItem from="1615290592899" duration="2309000" />
+      <workItem from="1615290592899" duration="3910000" />
+      <workItem from="1615299112239" duration="2148000" />
+      <workItem from="1615371615547" duration="5812000" />
     </task>
     <task id="LOCAL-00001" summary="简单工厂、工厂方法">
       <created>1615219769753</created>
@@ -428,14 +314,22 @@
       <option name="project" value="LOCAL" />
       <updated>1615219769753</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="抽象工厂">
+      <created>1615294671677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615294671677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9906000" />
+    <option name="totallyTimeSpent" value="19467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -450,7 +344,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28154206" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4614486" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32943925" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -458,11 +352,10 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="NoSql Explorer" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.40654206" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.71495324" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.7114486" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24973205" />
       <window_info id="JRebel" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -470,70 +363,47 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="简单工厂、工厂方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="简单工厂、工厂方法" />
+    <MESSAGE value="抽象工厂" />
+    <option name="LAST_COMMIT_MESSAGE" value="抽象工厂" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_2_工厂方法/FEVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_2_工厂方法/PythonVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_2_工厂方法/FEVideoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_2_工厂方法/JavaVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_2_工厂方法/JavaVideoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_2_工厂方法/PythonVideoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="uml://JAVA/java.lang.Override">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -592,10 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="6" selection-start-line="6" selection-end-line="12" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -690,10 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -789,10 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,76 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonArticle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/Video.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaArticle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/CourseFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaCourseFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonCourseFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -891,6 +679,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="uml://JAVA/com.meicloud.huadong.design_3_抽象工厂">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.meicloud.huadong.design_3_抽象工厂</OriginalElement>
+          <nodes>
+            <node x="" y="">com.meicloud.huadong.design_3_抽象工厂.Article</node>
+            <node x="" y="">com.meicloud.huadong.design_3_抽象工厂.JavaVideo</node>
+            <node x="" y="">com.meicloud.huadong.design_3_抽象工厂.Test</node>
+            <node x="" y="">com.meicloud.huadong.design_3_抽象工厂.PythonCourseFactory</node>
+            <node x="" y="">com.meicloud.huadong.design_3_抽象工厂.PythonArticle</node>
+            <node x="" y="">com.meicloud.huadong.design_3_抽象工厂.PythonVideo</node>
+            <node x="" y="">com.meicloud.huadong.design_3_抽象工厂.CourseFactory</node>
+            <node x="" y="">com.meicloud.huadong.design_3_抽象工厂.Video</node>
+            <node x="" y="">com.meicloud.huadong.design_3_抽象工厂.JavaArticle</node>
+            <node x="" y="">com.meicloud.huadong.design_3_抽象工厂.JavaCourseFactory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="223.0" y="228.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -898,75 +719,302 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.meicloud.huadong.design_3_抽象工厂">
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/CourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.meicloud.huadong.design_4_建造者模式">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.meicloud.huadong.design_3_抽象工厂</OriginalElement>
+          <OriginalElement>com.meicloud.huadong.design_4_建造者模式</OriginalElement>
           <nodes>
-            <node x="104.5" y="271.0">com.meicloud.huadong.design_3_抽象工厂.Article</node>
-            <node x="209.0" y="602.0">com.meicloud.huadong.design_3_抽象工厂.JavaVideo</node>
-            <node x="443.0" y="490.0">com.meicloud.huadong.design_3_抽象工厂.Test</node>
-            <node x="216.0" y="138.0">com.meicloud.huadong.design_3_抽象工厂.PythonCourseFactory</node>
-            <node x="209.0" y="383.0">com.meicloud.huadong.design_3_抽象工厂.PythonArticle</node>
-            <node x="0.0" y="602.0">com.meicloud.huadong.design_3_抽象工厂.PythonVideo</node>
-            <node x="128.25" y="0.0">com.meicloud.huadong.design_3_抽象工厂.CourseFactory</node>
-            <node x="104.5" y="490.0">com.meicloud.huadong.design_3_抽象工厂.Video</node>
-            <node x="0.0" y="383.0">com.meicloud.huadong.design_3_抽象工厂.JavaArticle</node>
-            <node x="0.0" y="138.0">com.meicloud.huadong.design_3_抽象工厂.JavaCourseFactory</node>
+            <node x="" y="">com.meicloud.huadong.design_4_建造者模式.Coach</node>
+            <node x="" y="">com.meicloud.huadong.design_4_建造者模式.Course</node>
+            <node x="" y="">com.meicloud.huadong.design_4_建造者模式.CourseActualBuilder</node>
+            <node x="" y="">com.meicloud.huadong.design_4_建造者模式.CourseBuilder</node>
           </nodes>
           <notes />
-          <edges>
-            <edge source="com.meicloud.huadong.design_3_抽象工厂.JavaArticle" target="com.meicloud.huadong.design_3_抽象工厂.Article">
-              <point x="0.0" y="-31.0" />
-              <point x="94.5" y="358.0" />
-              <point x="151.75" y="358.0" />
-              <point x="-47.25" y="31.0" />
-            </edge>
-            <edge source="com.meicloud.huadong.design_3_抽象工厂.PythonArticle" target="com.meicloud.huadong.design_3_抽象工厂.Article">
-              <point x="0.0" y="-31.0" />
-              <point x="303.5" y="358.0" />
-              <point x="246.25" y="358.0" />
-              <point x="47.25" y="31.0" />
-            </edge>
-            <edge source="com.meicloud.huadong.design_3_抽象工厂.JavaCourseFactory" target="com.meicloud.huadong.design_3_抽象工厂.CourseFactory">
-              <point x="0.0" y="-44.0" />
-              <point x="98.0" y="113.0" />
-              <point x="169.75" y="113.0" />
-              <point x="-41.5" y="44.0" />
-            </edge>
-            <edge source="com.meicloud.huadong.design_3_抽象工厂.PythonVideo" target="com.meicloud.huadong.design_3_抽象工厂.Video">
-              <point x="0.0" y="-31.0" />
-              <point x="94.5" y="577.0" />
-              <point x="151.75" y="577.0" />
-              <point x="-47.25" y="31.0" />
-            </edge>
-            <edge source="com.meicloud.huadong.design_3_抽象工厂.JavaVideo" target="com.meicloud.huadong.design_3_抽象工厂.Video">
-              <point x="0.0" y="-31.0" />
-              <point x="303.5" y="577.0" />
-              <point x="246.25" y="577.0" />
-              <point x="47.25" y="31.0" />
-            </edge>
-            <edge source="com.meicloud.huadong.design_3_抽象工厂.PythonCourseFactory" target="com.meicloud.huadong.design_3_抽象工厂.CourseFactory">
-              <point x="0.0" y="-44.0" />
-              <point x="324.5" y="113.0" />
-              <point x="252.75" y="113.0" />
-              <point x="41.5" y="44.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="456.0" y="228.0" />
-          <SelectedNodes>
-            <node>com.meicloud.huadong.design_3_抽象工厂.JavaArticle</node>
-          </SelectedNodes>
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="175.0" y="352.0" />
+          <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
             <Category>Constructors</Category>
-            <Category>Properties</Category>
             <Category>Methods</Category>
+            <Category>Properties</Category>
             <Category>Inner Classes</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/CourseBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="59" column="35" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/Coach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/CourseActualBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/v2/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="75" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.meicloud.huadong.design_4_建造者模式.v2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.meicloud.huadong.design_4_建造者模式.v2</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.meicloud.huadong.design_4_建造者模式.v2.Course.CourseBuilder</node>
+            <node x="35.13749999999999" y="373.0">com.meicloud.huadong.design_4_建造者模式.v2.Course</node>
+            <node x="116.75" y="643.0">com.meicloud.huadong.design_4_建造者模式.v2.Test</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.meicloud.huadong.design_4_建造者模式.v2.Test" target="com.meicloud.huadong.design_4_建造者模式.v2.Course.CourseBuilder">
+              <point x="54.0" y="-31.0" />
+              <point x="278.75" y="618.0" />
+              <point x="293.6375" y="618.0" />
+              <point x="293.6375" y="348.0" />
+              <point x="339.29999999999995" y="348.0" />
+              <point x="150.79999999999995" y="161.5" />
+            </edge>
+            <edge source="com.meicloud.huadong.design_4_建造者模式.v2.Course.CourseBuilder" target="com.meicloud.huadong.design_4_建造者模式.v2.Course">
+              <point x="0.0" y="161.5" />
+              <point x="188.5" y="348.0" />
+              <point x="190.1375" y="348.0" />
+              <point x="31.0" y="-110.0" />
+            </edge>
+            <edge source="com.meicloud.huadong.design_4_建造者模式.v2.Test" target="com.meicloud.huadong.design_4_建造者模式.v2.Course">
+              <point x="-54.0" y="-31.0" />
+              <point x="170.75" y="618.0" />
+              <point x="159.1375" y="618.0" />
+              <point x="0.0" y="110.0" />
+            </edge>
+            <edge source="com.meicloud.huadong.design_4_建造者模式.v2.Course" target="com.meicloud.huadong.design_4_建造者模式.v2.Course.CourseBuilder">
+              <point x="-93.0" y="-110.0" />
+              <point x="66.13749999999999" y="348.0" />
+              <point x="37.69999999999999" y="348.0" />
+              <point x="-150.8" y="161.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="198.0" y="353.0" />
+          <SelectedNodes>
+            <node>com.meicloud.huadong.design_4_建造者模式.v2.Course</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/text/MessageFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="838" column="25" selection-start-line="838" selection-start-column="25" selection-end-line="838" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.meicloud.huadong.design_5_原型模式">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.meicloud.huadong.design_5_原型模式</OriginalElement>
+          <nodes>
+            <node x="" y="">com.meicloud.huadong.design_5_原型模式.clone</node>
+            <node x="" y="">com.meicloud.huadong.design_5_原型模式.MailUtil</node>
+            <node x="" y="">com.meicloud.huadong.design_5_原型模式.Mail</node>
+            <node x="" y="">com.meicloud.huadong.design_5_原型模式.abstractprototype</node>
+            <node x="" y="">com.meicloud.huadong.design_5_原型模式.Test</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="312.0" y="262.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/abstractprototype/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/abstractprototype/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/clone/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/clone/Pig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/MailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/Mail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="52" selection-end-column="1" />
+          <folding>
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_4_建造者模式/v2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>

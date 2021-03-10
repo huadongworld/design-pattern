@@ -1,0 +1,20 @@
+package com.meicloud.huadong.design_4_建造者模式;
+
+/**
+ * @author HuaDong
+ * @date 2021/3/9 20:59
+ */
+public class Test {
+    public static void main(String[] args) {
+        CourseBuilder courseBuilder = new CourseActualBuilder();
+        Coach coach = new Coach();
+        coach.setCourseBuilder(courseBuilder);
+
+        Course course = coach.makeCourse("设计模式",
+                "设计模式PPT",
+                "设计模式视频",
+                "设计模式文章",
+                "设计模式问答");
+        System.out.println(course);
+    }
+}
