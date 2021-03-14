@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652cdc7-fe0b-4cc9-b948-704c0aabb397" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/AC220.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/DC5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/PowerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/classadapter/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/classadapter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/classadapter/ConcreteTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/classadapter/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/classadapter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/objectadapter/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/objectadapter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/objectadapter/ConcreteTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/objectadapter/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/objectadapter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/EmployeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,92 +35,55 @@
       <file leaf-file-name="AC220.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/AC220.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="68">
+              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DC5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/DC5.java">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PowerAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/PowerAdapter.java">
+      <file leaf-file-name="EmployeeFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/EmployeeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="269">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#225#242#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/Test.java">
+      <file leaf-file-name="Manager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            <state relative-caret-position="136">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <folding>
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JAVA/com.meicloud.huadong.design_8_适配器模式" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.meicloud.huadong.design_8_适配器模式">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.meicloud.huadong.design_8_适配器模式</OriginalElement>
-              <nodes>
-                <node x="64.5" y="112.0">com.meicloud.huadong.design_8_适配器模式.PowerAdapter</node>
-                <node x="0.0" y="0.0">com.meicloud.huadong.design_8_适配器模式.AC220</node>
-                <node x="241.99999999999997" y="0.0">com.meicloud.huadong.design_8_适配器模式.DC5</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.meicloud.huadong.design_8_适配器模式.PowerAdapter" target="com.meicloud.huadong.design_8_适配器模式.AC220">
-                  <point x="0.0" y="-44.5" />
-                  <point x="55.5" y="31.0" />
-                </edge>
-                <edge source="com.meicloud.huadong.design_8_适配器模式.PowerAdapter" target="com.meicloud.huadong.design_8_适配器模式.DC5">
-                  <point x="68.0" y="-44.5" />
-                  <point x="234.5" y="87.0" />
-                  <point x="344.0" y="87.0" />
-                  <point x="0.0" y="31.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-470.0" y="2.5" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XmlAdapter.java" pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/xml/bind/annotation/adapters/XmlAdapter.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="161" column="16" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XmlJavaTypeAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/xml/bind/annotation/adapters/XmlJavaTypeAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            <state relative-caret-position="15">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="27" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -155,6 +108,8 @@
       <find>birthday</find>
       <find>Battercake</find>
       <find>ABattercake</find>
+      <find>reportContent</find>
+      <find>department</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -163,10 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaVideo.java" />
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonVideo.java" />
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/JavaArticle.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/PythonArticle.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/Video.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_3_抽象工厂/CourseFactory.java" />
@@ -214,6 +165,10 @@
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/objectadapter/Adapter.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/Test.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/PowerAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Manager.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/EmployeeFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Test.java" />
       </list>
     </option>
   </component>
@@ -240,8 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,7 +219,7 @@
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="huadong" type="462c0819:PsiDirectoryNode" />
-              <item name="design_8_适配器模式" type="462c0819:PsiDirectoryNode" />
+              <item name="design_9_享元模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
@@ -331,7 +285,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,11 +303,11 @@
       <recent name="com.meicloud.huadong.design_1_简单工厂" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_9_享元模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_8_适配器模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_7_装饰者模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_6_外观模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_5_原型模式" />
-      <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_4_建造者模式" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -367,17 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (5)">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_6_外观模式.Test" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.meicloud.huadong.design_6_外观模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_7_装饰者模式.v1.Test" />
       <module name="design-pattern" />
@@ -418,20 +363,30 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_9_享元模式.Test" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meicloud.huadong.design_9_享元模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
-      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.Test (3)" />
       <item itemvalue="Application.Test (4)" />
       <item itemvalue="Application.Test (5)" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (5)" />
         <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +406,8 @@
       <workItem from="1615371615547" duration="7910000" />
       <workItem from="1615463254779" duration="5565000" />
       <workItem from="1615561736322" duration="4128000" />
-      <workItem from="1615607570962" duration="6265000" />
+      <workItem from="1615607570962" duration="8760000" />
+      <workItem from="1615726087269" duration="2814000" />
     </task>
     <task id="LOCAL-00001" summary="简单工厂、工厂方法">
       <created>1615219769753</created>
@@ -488,11 +444,18 @@
       <option name="project" value="LOCAL" />
       <updated>1615567063521</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="适配器模式">
+      <created>1615634168021</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615634168021</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37523000" />
+    <option name="totallyTimeSpent" value="42832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -502,7 +465,7 @@
       <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="JRebel Executor" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" weight="0.32943925" />
       <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -510,7 +473,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4614486" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.682243" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32943925" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -518,9 +481,9 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="NoSql Explorer" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.7126168" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.7126168" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.7114486" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973205" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24973205" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -570,113 +533,11 @@
     <MESSAGE value="建造者模式和原型模式" />
     <MESSAGE value="外观模式" />
     <MESSAGE value="装饰者模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="装饰者模式" />
+    <MESSAGE value="享元模式" />
+    <MESSAGE value="适配器模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="适配器模式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JAVA/com.meicloud.huadong.design_4_建造者模式.v2">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.meicloud.huadong.design_4_建造者模式.v2</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">com.meicloud.huadong.design_4_建造者模式.v2.Course.CourseBuilder</node>
-            <node x="35.13749999999999" y="373.0">com.meicloud.huadong.design_4_建造者模式.v2.Course</node>
-            <node x="116.75" y="643.0">com.meicloud.huadong.design_4_建造者模式.v2.Test</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.meicloud.huadong.design_4_建造者模式.v2.Test" target="com.meicloud.huadong.design_4_建造者模式.v2.Course.CourseBuilder">
-              <point x="54.0" y="-31.0" />
-              <point x="278.75" y="618.0" />
-              <point x="293.6375" y="618.0" />
-              <point x="293.6375" y="348.0" />
-              <point x="339.29999999999995" y="348.0" />
-              <point x="150.79999999999995" y="161.5" />
-            </edge>
-            <edge source="com.meicloud.huadong.design_4_建造者模式.v2.Course.CourseBuilder" target="com.meicloud.huadong.design_4_建造者模式.v2.Course">
-              <point x="0.0" y="161.5" />
-              <point x="188.5" y="348.0" />
-              <point x="190.1375" y="348.0" />
-              <point x="31.0" y="-110.0" />
-            </edge>
-            <edge source="com.meicloud.huadong.design_4_建造者模式.v2.Test" target="com.meicloud.huadong.design_4_建造者模式.v2.Course">
-              <point x="-54.0" y="-31.0" />
-              <point x="170.75" y="618.0" />
-              <point x="159.1375" y="618.0" />
-              <point x="0.0" y="110.0" />
-            </edge>
-            <edge source="com.meicloud.huadong.design_4_建造者模式.v2.Course" target="com.meicloud.huadong.design_4_建造者模式.v2.Course.CourseBuilder">
-              <point x="-93.0" y="-110.0" />
-              <point x="66.13749999999999" y="348.0" />
-              <point x="37.69999999999999" y="348.0" />
-              <point x="-150.8" y="161.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="198.0" y="353.0" />
-          <SelectedNodes>
-            <node>com.meicloud.huadong.design_4_建造者模式.v2.Course</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/text/MessageFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="838" column="25" selection-start-line="838" selection-start-column="25" selection-end-line="838" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.meicloud.huadong.design_5_原型模式">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.meicloud.huadong.design_5_原型模式</OriginalElement>
-          <nodes>
-            <node x="" y="">com.meicloud.huadong.design_5_原型模式.clone</node>
-            <node x="" y="">com.meicloud.huadong.design_5_原型模式.MailUtil</node>
-            <node x="" y="">com.meicloud.huadong.design_5_原型模式.Mail</node>
-            <node x="" y="">com.meicloud.huadong.design_5_原型模式.abstractprototype</node>
-            <node x="" y="">com.meicloud.huadong.design_5_原型模式.Test</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="312.0" y="263.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/abstractprototype/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_5_原型模式/abstractprototype/B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -857,10 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding>
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -900,21 +757,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式.java" />
     <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_7_装饰者模式/v2/AbstractDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-          <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -922,10 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -971,7 +814,7 @@
               <point x="-45.75" y="31.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-458.888888888889" y="8.111111111111086" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-459.0" y="8.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -1048,13 +891,13 @@
               <point x="61.75" y="31.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="15.0" y="100.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="15.0" y="101.0" />
           <SelectedNodes>
             <node>com.meicloud.huadong.design_8_适配器模式.objectadapter.Adaptee</node>
           </SelectedNodes>
           <Categories>
-            <Category>Constructors</Category>
             <Category>Fields</Category>
+            <Category>Constructors</Category>
             <Category>Methods</Category>
             <Category>Properties</Category>
             <Category>Inner Classes</Category>
@@ -1078,31 +921,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/AC220.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/xml/bind/annotation/adapters/XmlJavaTypeAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="750">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/DC5.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/xml/bind/annotation/adapters/XmlAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/PowerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        <state relative-caret-position="2">
+          <caret line="156" column="31" lean-forward="true" selection-start-line="156" selection-start-column="31" selection-end-line="156" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1112,24 +941,13 @@
           <ID>JAVA</ID>
           <OriginalElement>com.meicloud.huadong.design_8_适配器模式</OriginalElement>
           <nodes>
-            <node x="64.5" y="112.0">com.meicloud.huadong.design_8_适配器模式.PowerAdapter</node>
-            <node x="0.0" y="0.0">com.meicloud.huadong.design_8_适配器模式.AC220</node>
-            <node x="241.99999999999997" y="0.0">com.meicloud.huadong.design_8_适配器模式.DC5</node>
+            <node x="" y="">com.meicloud.huadong.design_8_适配器模式.PowerAdapter</node>
+            <node x="" y="">com.meicloud.huadong.design_8_适配器模式.AC220</node>
+            <node x="" y="">com.meicloud.huadong.design_8_适配器模式.DC5</node>
           </nodes>
           <notes />
-          <edges>
-            <edge source="com.meicloud.huadong.design_8_适配器模式.PowerAdapter" target="com.meicloud.huadong.design_8_适配器模式.AC220">
-              <point x="0.0" y="-44.5" />
-              <point x="55.5" y="31.0" />
-            </edge>
-            <edge source="com.meicloud.huadong.design_8_适配器模式.PowerAdapter" target="com.meicloud.huadong.design_8_适配器模式.DC5">
-              <point x="68.0" y="-44.5" />
-              <point x="234.5" y="87.0" />
-              <point x="344.0" y="87.0" />
-              <point x="0.0" y="31.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-470.0" y="2.5" />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-10.0" y="157.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -1143,17 +961,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/xml/bind/annotation/adapters/XmlJavaTypeAdapter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="272">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/xml/bind/annotation/adapters/XmlAdapter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/PowerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="161" column="16" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="16" />
+        <state relative-caret-position="238">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/DC5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_8_适配器模式/AC220.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.meicloud.huadong.design_9_享元模式">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.meicloud.huadong.design_9_享元模式</OriginalElement>
+          <nodes>
+            <node x="" y="">com.meicloud.huadong.design_9_享元模式.EmployeeFactory</node>
+            <node x="" y="">com.meicloud.huadong.design_9_享元模式.Employee</node>
+            <node x="" y="">com.meicloud.huadong.design_9_享元模式.Manager</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="220.5" y="279.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/EmployeeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#225#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
