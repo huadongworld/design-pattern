@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652cdc7-fe0b-4cc9-b948-704c0aabb397" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/AddInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/ExpressionParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/Interpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/MultiInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/NumberInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/OperatorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,152 +32,160 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="FanXianPromotionStrategy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_15_策略模式/FanXianPromotionStrategy.java">
+      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Course.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="491">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Question.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="6" selection-start-line="6" selection-end-line="25" selection-end-column="1" />
               <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Teacher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Teacher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <folding>
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_15_策略模式/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="673">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddInterpreter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/AddInterpreter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExpressionParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/ExpressionParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Interpreter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/Interpreter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultiInterpreter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/MultiInterpreter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" selection-start-line="6" selection-end-line="24" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberInterpreter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/NumberInterpreter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" selection-start-line="6" selection-end-line="22" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OperatorUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/OperatorUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
-              <folding>
-                <element signature="e#127#128#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/com.meicloud.huadong.design_16_解释器模式" pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/com.meicloud.huadong.design_16_解释器模式">
+      <file leaf-file-name="JAVA/com.meicloud.huadong.design_17_观察者模式" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.meicloud.huadong.design_17_观察者模式">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>JAVA</ID>
-              <OriginalElement>com.meicloud.huadong.design_16_解释器模式</OriginalElement>
+              <OriginalElement>com.meicloud.huadong.design_17_观察者模式</OriginalElement>
               <nodes>
-                <node x="521.5376984126983" y="350.0">com.meicloud.huadong.design_16_解释器模式.ExpressionParser</node>
-                <node x="672.8333333333333" y="0.0">com.meicloud.huadong.design_16_解释器模式.Interpreter</node>
-                <node x="700.0" y="132.0">com.meicloud.huadong.design_16_解释器模式.AddInterpreter</node>
-                <node x="0.0" y="145.0">com.meicloud.huadong.design_16_解释器模式.NumberInterpreter</node>
-                <node x="299.0" y="132.0">com.meicloud.huadong.design_16_解释器模式.MultiInterpreter</node>
+                <node x="320.33333333333337" y="0.0">java.util.Observer</node>
+                <node x="287.91666666666663" y="688.0">com.meicloud.huadong.design_17_观察者模式.Teacher</node>
+                <node x="272.0" y="112.0">java.util.Observable</node>
+                <node x="0.0" y="243.0">com.meicloud.huadong.design_17_观察者模式.Question</node>
+                <node x="169.26851851851853" y="522.0">com.meicloud.huadong.design_17_观察者模式.Course</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="com.meicloud.huadong.design_16_解释器模式.ExpressionParser" target="com.meicloud.huadong.design_16_解释器模式.Interpreter">
-                  <point x="32.875" y="-44.5" />
-                  <point x="685.9126984126983" y="320.0" />
-                  <point x="1084.5" y="320.0" />
-                  <point x="1084.5" y="92.0" />
-                  <point x="821.9999999999999" y="92.0" />
-                  <point x="59.66666666666663" y="31.0" />
+                <edge source="com.meicloud.huadong.design_17_观察者模式.Course" target="java.util.Observable">
+                  <point x="0.0" y="-58.0" />
+                  <point x="359.26851851851853" y="502.0" />
+                  <point x="387.5" y="502.0" />
+                  <point x="-38.5" y="175.0" />
                 </edge>
-                <edge source="com.meicloud.huadong.design_16_解释器模式.NumberInterpreter" target="com.meicloud.huadong.design_16_解释器模式.Interpreter">
-                  <point x="0.0" y="-71.0" />
-                  <point x="139.5" y="82.0" />
-                  <point x="682.7777777777777" y="82.0" />
-                  <point x="-79.55555555555554" y="31.0" />
+                <edge source="java.util.Observer" target="java.util.Observable">
+                  <point x="39.875" y="31.0" />
+                  <point x="519.7083333333334" y="87.0" />
+                  <point x="528.6666666666667" y="87.0" />
+                  <point x="102.66666666666669" y="-175.0" />
                 </edge>
-                <edge source="com.meicloud.huadong.design_16_解释器模式.MultiInterpreter" target="com.meicloud.huadong.design_16_解释器模式.Interpreter">
-                  <point x="127.0" y="-84.0" />
-                  <point x="616.5" y="112.0" />
-                  <point x="742.4444444444443" y="112.0" />
-                  <point x="-19.888888888888914" y="31.0" />
+                <edge source="com.meicloud.huadong.design_17_观察者模式.Teacher" target="com.meicloud.huadong.design_17_观察者模式.Course">
+                  <point x="-39.875" y="-58.0" />
+                  <point x="407.54166666666663" y="668.0" />
+                  <point x="359.26851851851853" y="668.0" />
+                  <point x="0.0" y="58.0" />
                 </edge>
-                <edge source="com.meicloud.huadong.design_16_解释器模式.ExpressionParser" target="com.meicloud.huadong.design_16_解释器模式.NumberInterpreter">
-                  <point x="-32.875" y="-44.5" />
-                  <point x="620.1626984126983" y="320.0" />
-                  <point x="209.25" y="320.0" />
-                  <point x="69.75" y="71.0" />
+                <edge source="java.util.Observable" target="java.util.Observer">
+                  <point x="-102.66666666666669" y="-175.0" />
+                  <point x="323.3333333333333" y="87.0" />
+                  <point x="360.20833333333337" y="87.0" />
+                  <point x="-119.625" y="31.0" />
                 </edge>
-                <edge source="com.meicloud.huadong.design_16_解释器模式.AddInterpreter" target="com.meicloud.huadong.design_16_解释器模式.Interpreter">
-                  <point x="-124.66666666666669" y="-84.0" />
-                  <point x="0.0" y="31.0" />
+                <edge source="com.meicloud.huadong.design_17_观察者模式.Teacher" target="java.util.Observer">
+                  <point x="119.625" y="-58.0" />
+                  <point x="567.0416666666666" y="668.0" />
+                  <point x="594.2638888888889" y="668.0" />
+                  <point x="594.2638888888889" y="87.0" />
+                  <point x="599.4583333333334" y="87.0" />
+                  <point x="119.625" y="31.0" />
+                </edge>
+                <edge source="com.meicloud.huadong.design_17_观察者模式.Course" target="com.meicloud.huadong.design_17_观察者模式.Question">
+                  <point x="-126.66666666666669" y="-58.0" />
+                  <point x="232.60185185185185" y="502.0" />
+                  <point x="174.0" y="502.0" />
+                  <point x="58.0" y="44.0" />
+                </edge>
+                <edge source="com.meicloud.huadong.design_17_观察者模式.Teacher" target="java.util.Observable">
+                  <point x="39.875" y="-58.0" />
+                  <point x="487.29166666666663" y="658.0" />
+                  <point x="577.5462962962963" y="658.0" />
+                  <point x="577.5462962962963" y="502.0" />
+                  <point x="541.5" y="502.0" />
+                  <point x="115.5" y="175.0" />
+                </edge>
+                <edge source="java.util.Observable" target="java.util.Observable">
+                  <point x="-115.5" y="175.0" />
+                  <point x="310.5" y="482.0" />
+                  <point x="252.0" y="482.0" />
+                  <point x="252.0" y="287.0" />
+                  <point x="-154.0" y="-0.0" />
+                </edge>
+                <edge source="com.meicloud.huadong.design_17_观察者模式.Teacher" target="com.meicloud.huadong.design_17_观察者模式.Question">
+                  <point x="-119.625" y="-58.0" />
+                  <point x="327.79166666666663" y="668.0" />
+                  <point x="58.0" y="668.0" />
+                  <point x="-58.0" y="44.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="537.0" y="260.5" />
-              <SelectedNodes />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-291.5" y="235.0" />
+              <SelectedNodes>
+                <node>com.meicloud.huadong.design_17_观察者模式.Teacher</node>
+              </SelectedNodes>
               <Categories>
                 <Category>Fields</Category>
                 <Category>Constructors</Category>
                 <Category>Methods</Category>
                 <Category>Properties</Category>
-                <Category />
+                <Category>Inner Classes</Category>
               </Categories>
               <SCOPE>All</SCOPE>
               <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Observable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Observable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="172" selection-start-line="172" selection-end-line="174" selection-end-column="5" />
+              <folding>
+                <element signature="e#5937#5938#0" expanded="true" />
+                <element signature="e#5967#5968#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Event.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/awt/Event.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -215,6 +220,10 @@
       <find>courseIterator</find>
       <find>promotionActivity618</find>
       <find>OperatorUtil</find>
+      <find>course</find>
+      <find>teacherName</find>
+      <find>courseName</find>
+      <find>teacher1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -223,10 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/EmployeeFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_9_享元模式/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_10_组合模式/CatalogComponent.java" />
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_10_组合模式/Course.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_10_组合模式/CourseCatalog.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_10_组合模式/Test.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_11_桥接模式/ABCBank.java" />
@@ -274,6 +279,10 @@
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/ExpressionParser.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/MultiInterpreter.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/AddInterpreter.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Question.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Course.java" />
       </list>
     </option>
   </component>
@@ -325,7 +334,7 @@
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="huadong" type="462c0819:PsiDirectoryNode" />
-              <item name="design_16_解释器模式" type="462c0819:PsiDirectoryNode" />
+              <item name="design_17_观察者模式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,7 +344,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="iterator&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Iterator.java&#10;driver&#9;PSI&#9;JAVA://java.sql.Driver&#10;arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;contain&#9;PSI&#9;JAVA://java.awt.Container&#10;xmladap&#9;PSI&#9;JAVA://javax.xml.bind.annotation.adapters.XmlAdapter&#10;cloneab&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Cloneable.java" />
+    <property name="SearchEverywhereHistoryKey" value="Event&#9;PSI&#9;JAVA://java.awt.Event&#10;iterator&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Iterator.java&#10;driver&#9;PSI&#9;JAVA://java.sql.Driver&#10;arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;contain&#9;PSI&#9;JAVA://java.awt.Container&#10;xmladap&#9;PSI&#9;JAVA://javax.xml.bind.annotation.adapters.XmlAdapter&#10;cloneab&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Cloneable.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -348,11 +357,11 @@
       <recent name="com.meicloud.huadong.design_1_简单工厂" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_17_观察者模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_16_解释器模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_15_策略模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_14_迭代器模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_13_模板方法" />
-      <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_12_代理模式" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -367,7 +376,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test (3)">
     <configuration name="SpringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_16_解释器模式.SpringTest" />
       <module name="design-pattern" />
@@ -398,12 +407,12 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_13_模板方法.Test" />
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_17_观察者模式.Test" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meicloud.huadong.design_13_模板方法.*" />
+          <option name="PATTERN" value="com.meicloud.huadong.design_17_观察者模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,19 +428,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Test (5)" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.SpringTest" />
       <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Test (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.SpringTest" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +467,7 @@
       <workItem from="1615897800463" duration="6244000" />
       <workItem from="1615984698055" duration="5259000" />
       <workItem from="1616076185330" duration="3584000" />
-      <workItem from="1616160505064" duration="1045000" />
+      <workItem from="1616160505064" duration="3911000" />
     </task>
     <task id="LOCAL-00001" summary="简单工厂、工厂方法">
       <created>1615219769753</created>
@@ -551,15 +560,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616076644287</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="解释器模式">
+      <created>1616161947566</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616161947566</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70368000" />
+    <option name="totallyTimeSpent" value="73234000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -576,24 +591,24 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.682243" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32943925" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="NoSql Explorer" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.7126168" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.7126168" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.7114486" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24973205" />
       <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943925" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32943925" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -642,124 +657,10 @@
     <MESSAGE value="模板方法" />
     <MESSAGE value="迭代器模式" />
     <MESSAGE value="策略模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="策略模式" />
+    <MESSAGE value="解释器模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="解释器模式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_11_桥接模式/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_11_桥接模式/SavingAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/sql/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.meicloud.huadong.design_11_桥接模式">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.meicloud.huadong.design_11_桥接模式</OriginalElement>
-          <nodes>
-            <node x="" y="">com.meicloud.huadong.design_11_桥接模式.ABCBank</node>
-            <node x="" y="">com.meicloud.huadong.design_11_桥接模式.Bank</node>
-            <node x="" y="">com.meicloud.huadong.design_11_桥接模式.DepositAccount</node>
-            <node x="" y="">com.meicloud.huadong.design_11_桥接模式.ICBCBank</node>
-            <node x="" y="">com.meicloud.huadong.design_11_桥接模式.SavingAccount</node>
-            <node x="" y="">com.meicloud.huadong.design_11_桥接模式.Account</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="418.0" y="185.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category />
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_11_桥接模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/db/DynamicDataSource.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/db/DataSourceContextHolder.java" />
-    <entry file="uml://JAVA/com.meicloud.huadong.design_12_代理模式">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.meicloud.huadong.design_12_代理模式</OriginalElement>
-          <nodes>
-            <node x="" y="">com.meicloud.huadong.design_12_代理模式.staticproxy.OrderServiceStaticProxy</node>
-            <node x="" y="">com.meicloud.huadong.design_12_代理模式.IOrderDao</node>
-            <node x="" y="">com.meicloud.huadong.design_12_代理模式.Order</node>
-            <node x="" y="">com.meicloud.huadong.design_12_代理模式.OrderDaoImpl</node>
-            <node x="" y="">com.meicloud.huadong.design_12_代理模式.IOrderService</node>
-            <node x="" y="">com.meicloud.huadong.design_12_代理模式.OrderServiceImpl</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="286.0" y="321.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category />
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/staticproxy/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/OrderServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/IOrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/IOrderDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/staticproxy/OrderServiceStaticProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -849,7 +750,7 @@
             <Category>Constructors</Category>
             <Category>Methods</Category>
             <Category>Properties</Category>
-            <Category />
+            <Category>Inner Classes</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
@@ -891,7 +792,7 @@
             <Category>Constructors</Category>
             <Category>Methods</Category>
             <Category>Properties</Category>
-            <Category />
+            <Category>Inner Classes</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
@@ -1021,7 +922,7 @@
             <Category>Constructors</Category>
             <Category>Methods</Category>
             <Category>Properties</Category>
-            <Category />
+            <Category>Inner Classes</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
@@ -1114,6 +1015,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="uml://JAVA/com.meicloud.huadong.design_16_解释器模式">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.meicloud.huadong.design_16_解释器模式</OriginalElement>
+          <nodes>
+            <node x="" y="">com.meicloud.huadong.design_16_解释器模式.ExpressionParser</node>
+            <node x="" y="">com.meicloud.huadong.design_16_解释器模式.Interpreter</node>
+            <node x="" y="">com.meicloud.huadong.design_16_解释器模式.AddInterpreter</node>
+            <node x="" y="">com.meicloud.huadong.design_16_解释器模式.NumberInterpreter</node>
+            <node x="" y="">com.meicloud.huadong.design_16_解释器模式.MultiInterpreter</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="304.0" y="260.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_16_解释器模式/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1121,62 +1050,193 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.meicloud.huadong.design_16_解释器模式">
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/guavatest/GuavaEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/guavatest/GuavaEventTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.Observer">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.meicloud.huadong.design_16_解释器模式</OriginalElement>
+          <OriginalElement>java.util.Observer</OriginalElement>
           <nodes>
-            <node x="521.5376984126983" y="350.0">com.meicloud.huadong.design_16_解释器模式.ExpressionParser</node>
-            <node x="672.8333333333333" y="0.0">com.meicloud.huadong.design_16_解释器模式.Interpreter</node>
-            <node x="700.0" y="132.0">com.meicloud.huadong.design_16_解释器模式.AddInterpreter</node>
-            <node x="0.0" y="145.0">com.meicloud.huadong.design_16_解释器模式.NumberInterpreter</node>
-            <node x="299.0" y="132.0">com.meicloud.huadong.design_16_解释器模式.MultiInterpreter</node>
+            <node x="" y="">java.util.Observer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="64.0" y="18.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="617" column="44" selection-start-line="617" selection-start-column="44" selection-end-line="617" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.meicloud.huadong.design_17_观察者模式">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.meicloud.huadong.design_17_观察者模式</OriginalElement>
+          <nodes>
+            <node x="320.33333333333337" y="0.0">java.util.Observer</node>
+            <node x="287.91666666666663" y="688.0">com.meicloud.huadong.design_17_观察者模式.Teacher</node>
+            <node x="272.0" y="112.0">java.util.Observable</node>
+            <node x="0.0" y="243.0">com.meicloud.huadong.design_17_观察者模式.Question</node>
+            <node x="169.26851851851853" y="522.0">com.meicloud.huadong.design_17_观察者模式.Course</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="com.meicloud.huadong.design_16_解释器模式.ExpressionParser" target="com.meicloud.huadong.design_16_解释器模式.Interpreter">
-              <point x="32.875" y="-44.5" />
-              <point x="685.9126984126983" y="320.0" />
-              <point x="1084.5" y="320.0" />
-              <point x="1084.5" y="92.0" />
-              <point x="821.9999999999999" y="92.0" />
-              <point x="59.66666666666663" y="31.0" />
+            <edge source="com.meicloud.huadong.design_17_观察者模式.Course" target="java.util.Observable">
+              <point x="0.0" y="-58.0" />
+              <point x="359.26851851851853" y="502.0" />
+              <point x="387.5" y="502.0" />
+              <point x="-38.5" y="175.0" />
             </edge>
-            <edge source="com.meicloud.huadong.design_16_解释器模式.NumberInterpreter" target="com.meicloud.huadong.design_16_解释器模式.Interpreter">
-              <point x="0.0" y="-71.0" />
-              <point x="139.5" y="82.0" />
-              <point x="682.7777777777777" y="82.0" />
-              <point x="-79.55555555555554" y="31.0" />
+            <edge source="java.util.Observer" target="java.util.Observable">
+              <point x="39.875" y="31.0" />
+              <point x="519.7083333333334" y="87.0" />
+              <point x="528.6666666666667" y="87.0" />
+              <point x="102.66666666666669" y="-175.0" />
             </edge>
-            <edge source="com.meicloud.huadong.design_16_解释器模式.MultiInterpreter" target="com.meicloud.huadong.design_16_解释器模式.Interpreter">
-              <point x="127.0" y="-84.0" />
-              <point x="616.5" y="112.0" />
-              <point x="742.4444444444443" y="112.0" />
-              <point x="-19.888888888888914" y="31.0" />
+            <edge source="com.meicloud.huadong.design_17_观察者模式.Teacher" target="com.meicloud.huadong.design_17_观察者模式.Course">
+              <point x="-39.875" y="-58.0" />
+              <point x="407.54166666666663" y="668.0" />
+              <point x="359.26851851851853" y="668.0" />
+              <point x="0.0" y="58.0" />
             </edge>
-            <edge source="com.meicloud.huadong.design_16_解释器模式.ExpressionParser" target="com.meicloud.huadong.design_16_解释器模式.NumberInterpreter">
-              <point x="-32.875" y="-44.5" />
-              <point x="620.1626984126983" y="320.0" />
-              <point x="209.25" y="320.0" />
-              <point x="69.75" y="71.0" />
+            <edge source="java.util.Observable" target="java.util.Observer">
+              <point x="-102.66666666666669" y="-175.0" />
+              <point x="323.3333333333333" y="87.0" />
+              <point x="360.20833333333337" y="87.0" />
+              <point x="-119.625" y="31.0" />
             </edge>
-            <edge source="com.meicloud.huadong.design_16_解释器模式.AddInterpreter" target="com.meicloud.huadong.design_16_解释器模式.Interpreter">
-              <point x="-124.66666666666669" y="-84.0" />
-              <point x="0.0" y="31.0" />
+            <edge source="com.meicloud.huadong.design_17_观察者模式.Teacher" target="java.util.Observer">
+              <point x="119.625" y="-58.0" />
+              <point x="567.0416666666666" y="668.0" />
+              <point x="594.2638888888889" y="668.0" />
+              <point x="594.2638888888889" y="87.0" />
+              <point x="599.4583333333334" y="87.0" />
+              <point x="119.625" y="31.0" />
+            </edge>
+            <edge source="com.meicloud.huadong.design_17_观察者模式.Course" target="com.meicloud.huadong.design_17_观察者模式.Question">
+              <point x="-126.66666666666669" y="-58.0" />
+              <point x="232.60185185185185" y="502.0" />
+              <point x="174.0" y="502.0" />
+              <point x="58.0" y="44.0" />
+            </edge>
+            <edge source="com.meicloud.huadong.design_17_观察者模式.Teacher" target="java.util.Observable">
+              <point x="39.875" y="-58.0" />
+              <point x="487.29166666666663" y="658.0" />
+              <point x="577.5462962962963" y="658.0" />
+              <point x="577.5462962962963" y="502.0" />
+              <point x="541.5" y="502.0" />
+              <point x="115.5" y="175.0" />
+            </edge>
+            <edge source="java.util.Observable" target="java.util.Observable">
+              <point x="-115.5" y="175.0" />
+              <point x="310.5" y="482.0" />
+              <point x="252.0" y="482.0" />
+              <point x="252.0" y="287.0" />
+              <point x="-154.0" y="-0.0" />
+            </edge>
+            <edge source="com.meicloud.huadong.design_17_观察者模式.Teacher" target="com.meicloud.huadong.design_17_观察者模式.Question">
+              <point x="-119.625" y="-58.0" />
+              <point x="327.79166666666663" y="668.0" />
+              <point x="58.0" y="668.0" />
+              <point x="-58.0" y="44.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="537.0" y="260.5" />
-          <SelectedNodes />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-291.5" y="235.0" />
+          <SelectedNodes>
+            <node>com.meicloud.huadong.design_17_观察者模式.Teacher</node>
+          </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
             <Category>Constructors</Category>
             <Category>Methods</Category>
             <Category>Properties</Category>
-            <Category />
+            <Category>Inner Classes</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="172" selection-start-line="172" selection-end-line="174" selection-end-column="5" />
+          <folding>
+            <element signature="e#5937#5938#0" expanded="true" />
+            <element signature="e#5967#5968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_17_观察者模式/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/awt/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
         </state>
       </provider>
     </entry>
