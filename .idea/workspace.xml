@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652cdc7-fe0b-4cc9-b948-704c0aabb397" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_20_中介者模式/StudyGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_20_中介者模式/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_20_中介者模式/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/Approver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/ArticleApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/VideoApprover.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,11 +33,131 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ArticleMemento.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArticleMemento.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_18_备忘录模式/ArticleMemento.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Approver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/Approver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleApprover.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/ArticleApprover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/Course.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="6" selection-start-line="6" selection-end-line="43" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoApprover.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/VideoApprover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/com.meicloud.huadong.design_21_责任链模式" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.meicloud.huadong.design_21_责任链模式">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.meicloud.huadong.design_21_责任链模式</OriginalElement>
+              <nodes>
+                <node x="0.0" y="330.0">com.meicloud.huadong.design_21_责任链模式.VideoApprover</node>
+                <node x="120.5" y="191.0">com.meicloud.huadong.design_21_责任链模式.Approver</node>
+                <node x="139.5" y="0.0">com.meicloud.huadong.design_21_责任链模式.Course</node>
+                <node x="249.0" y="330.0">com.meicloud.huadong.design_21_责任链模式.ArticleApprover</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.meicloud.huadong.design_21_责任链模式.Approver" target="com.meicloud.huadong.design_21_责任链模式.Course">
+                  <point x="0.0" y="-44.5" />
+                  <point x="0.0" y="70.5" />
+                </edge>
+                <edge source="com.meicloud.huadong.design_21_责任链模式.ArticleApprover" target="com.meicloud.huadong.design_21_责任链模式.Approver">
+                  <point x="1.4210854715202004E-14" y="-31.0" />
+                  <point x="363.5" y="305.0" />
+                  <point x="327.875" y="305.0" />
+                  <point x="88.875" y="44.5" />
+                </edge>
+                <edge source="com.meicloud.huadong.design_21_责任链模式.ArticleApprover" target="com.meicloud.huadong.design_21_责任链模式.Course">
+                  <point x="76.33333333333331" y="-31.0" />
+                  <point x="439.8333333333333" y="305.0" />
+                  <point x="379.33680555555554" y="305.0" />
+                  <point x="379.33680555555554" y="166.0" />
+                  <point x="305.3333333333333" y="166.0" />
+                  <point x="66.33333333333331" y="70.5" />
+                </edge>
+                <edge source="com.meicloud.huadong.design_21_责任链模式.VideoApprover" target="com.meicloud.huadong.design_21_责任链模式.Approver">
+                  <point x="0.0" y="-31.0" />
+                  <point x="114.5" y="305.0" />
+                  <point x="150.125" y="305.0" />
+                  <point x="-88.875" y="44.5" />
+                </edge>
+                <edge source="com.meicloud.huadong.design_21_责任链模式.VideoApprover" target="com.meicloud.huadong.design_21_责任链模式.Course">
+                  <point x="-76.33333333333331" y="-31.0" />
+                  <point x="38.166666666666686" y="305.0" />
+                  <point x="98.66319444444446" y="305.0" />
+                  <point x="98.66319444444446" y="166.0" />
+                  <point x="172.66666666666669" y="166.0" />
+                  <point x="-66.33333333333331" y="70.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-454.0" y="42.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Filter.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/logging/Filter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -83,11 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/IOrderDao.java" />
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/OrderServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/db/DataSourceContextHolder.java" />
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/staticproxy/OrderServiceStaticProxy.java" />
-        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/dynamicproxy/Test.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_12_代理模式/dynamicproxy/OrderServiceDynamicProxy.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_13_模板方法/FECourse.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_13_模板方法/ACourse.java" />
@@ -134,6 +251,11 @@
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_20_中介者模式/User.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_20_中介者模式/StudyGroup.java" />
         <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_20_中介者模式/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/Approver.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/Course.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/ArticleApprover.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/VideoApprover.java" />
+        <option value="$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/Test.java" />
       </list>
     </option>
   </component>
@@ -160,7 +282,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,18 +314,27 @@
               <item name="huadong" type="462c0819:PsiDirectoryNode" />
               <item name="design_20_中介者模式" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="huadong" type="462c0819:PsiDirectoryNode" />
+              <item name="design_21_责任链模式" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="runna&#9;PSI&#9;JAVA://java.lang.Runnable&#10;Event&#9;PSI&#9;JAVA://java.awt.Event&#10;iterator&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Iterator.java&#10;driver&#9;PSI&#9;JAVA://java.sql.Driver&#10;arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;contain&#9;PSI&#9;JAVA://java.awt.Container&#10;xmladap&#9;PSI&#9;JAVA://javax.xml.bind.annotation.adapters.XmlAdapter&#10;cloneab&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Cloneable.java" />
+    <property name="SearchEverywhereHistoryKey" value="Filter&#9;PSI&#9;JAVA://java.util.logging.Filter&#10;runna&#9;PSI&#9;JAVA://java.lang.Runnable&#10;Event&#9;PSI&#9;JAVA://java.awt.Event&#10;iterator&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Iterator.java&#10;driver&#9;PSI&#9;JAVA://java.sql.Driver&#10;arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;contain&#9;PSI&#9;JAVA://java.awt.Container&#10;xmladap&#9;PSI&#9;JAVA://javax.xml.bind.annotation.adapters.XmlAdapter&#10;cloneab&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Cloneable.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -215,11 +345,11 @@
       <recent name="com.meicloud.huadong.design_1_简单工厂" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_21_责任链模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_20_中介者模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_19_命令模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_18_备忘录模式" />
       <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_17_观察者模式" />
-      <recent name="C:\Users\85176\Desktop\design-pattern\src\com\meicloud\huadong\design_16_解释器模式" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -234,23 +364,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.Test (5)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_20_中介者模式.Test" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.meicloud.huadong.design_20_中介者模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_16_解释器模式.Test" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.meicloud.huadong.design_16_解释器模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,6 +395,16 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_21_责任链模式.Test" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meicloud.huadong.design_21_责任链模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.meicloud.huadong.design_19_命令模式.Test" />
       <module name="design-pattern" />
@@ -286,19 +416,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.Test (3)" />
       <item itemvalue="Application.Test (4)" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (5)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +456,8 @@
       <workItem from="1615984698055" duration="5259000" />
       <workItem from="1616076185330" duration="3584000" />
       <workItem from="1616160505064" duration="5620000" />
-      <workItem from="1616252459041" duration="4443000" />
+      <workItem from="1616252459041" duration="4642000" />
+      <workItem from="1616292338335" duration="3220000" />
     </task>
     <task id="LOCAL-00001" summary="简单工厂、工厂方法">
       <created>1615219769753</created>
@@ -440,15 +571,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616255946549</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="中介者模式">
+      <created>1616259498652</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1616259498652</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79386000" />
+    <option name="totallyTimeSpent" value="82805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -534,58 +671,10 @@
     <MESSAGE value="解释器模式" />
     <MESSAGE value="观察者模式" />
     <MESSAGE value="命令模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="命令模式" />
+    <MESSAGE value="中介者模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="中介者模式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_14_迭代器模式/CourseAggregateImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="9" selection-start-line="9" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_14_迭代器模式/CourseAggregate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="64" column="45" lean-forward="true" selection-start-line="64" selection-start-column="45" selection-end-line="64" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_14_迭代器模式/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_15_策略模式/EmptyPromotionStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_15_策略模式/PromotionStrategyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_15_策略模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/com.meicloud.huadong.design_15_策略模式">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -910,7 +999,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="570.5" y="164.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="571.0" y="164.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -935,11 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
           <caret line="9" selection-start-line="9" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="e#225#234#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -947,10 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -958,12 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="6" selection-start-line="6" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -978,10 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1003,7 +1073,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="307.5" y="99.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="308.0" y="99.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -1059,7 +1129,113 @@
     <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_18_备忘录模式/ArticleMemento.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/Approver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/ArticleApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.meicloud.huadong.design_21_责任链模式">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.meicloud.huadong.design_21_责任链模式</OriginalElement>
+          <nodes>
+            <node x="0.0" y="330.0">com.meicloud.huadong.design_21_责任链模式.VideoApprover</node>
+            <node x="120.5" y="191.0">com.meicloud.huadong.design_21_责任链模式.Approver</node>
+            <node x="139.5" y="0.0">com.meicloud.huadong.design_21_责任链模式.Course</node>
+            <node x="249.0" y="330.0">com.meicloud.huadong.design_21_责任链模式.ArticleApprover</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.meicloud.huadong.design_21_责任链模式.Approver" target="com.meicloud.huadong.design_21_责任链模式.Course">
+              <point x="0.0" y="-44.5" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="com.meicloud.huadong.design_21_责任链模式.ArticleApprover" target="com.meicloud.huadong.design_21_责任链模式.Approver">
+              <point x="1.4210854715202004E-14" y="-31.0" />
+              <point x="363.5" y="305.0" />
+              <point x="327.875" y="305.0" />
+              <point x="88.875" y="44.5" />
+            </edge>
+            <edge source="com.meicloud.huadong.design_21_责任链模式.ArticleApprover" target="com.meicloud.huadong.design_21_责任链模式.Course">
+              <point x="76.33333333333331" y="-31.0" />
+              <point x="439.8333333333333" y="305.0" />
+              <point x="379.33680555555554" y="305.0" />
+              <point x="379.33680555555554" y="166.0" />
+              <point x="305.3333333333333" y="166.0" />
+              <point x="66.33333333333331" y="70.5" />
+            </edge>
+            <edge source="com.meicloud.huadong.design_21_责任链模式.VideoApprover" target="com.meicloud.huadong.design_21_责任链模式.Approver">
+              <point x="0.0" y="-31.0" />
+              <point x="114.5" y="305.0" />
+              <point x="150.125" y="305.0" />
+              <point x="-88.875" y="44.5" />
+            </edge>
+            <edge source="com.meicloud.huadong.design_21_责任链模式.VideoApprover" target="com.meicloud.huadong.design_21_责任链模式.Course">
+              <point x="-76.33333333333331" y="-31.0" />
+              <point x="38.166666666666686" y="305.0" />
+              <point x="98.66319444444446" y="305.0" />
+              <point x="98.66319444444446" y="166.0" />
+              <point x="172.66666666666669" y="166.0" />
+              <point x="-66.33333333333331" y="70.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-454.0" y="42.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/meicloud/huadong/design_21_责任链模式/VideoApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/logging/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="23" />
         </state>
       </provider>
     </entry>
